@@ -1,29 +1,11 @@
-## Oii, muito prazer eu sou a Bia👋
+## Projeto
 
-- 🌱 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
-- 🎓 Sou formada no Técnico de Desenvolvimento de Sistemas
-- 😄 Curto muito product design e desenvolvimento mobile, mas estou me aventurando em todas as áreas
-- ⚡ Fun fact: Já construi e programei um robô mais pesado e maior que eu 
+Trabalho de conclusão do curso técnico desenvolvido juntamente com Raissa Pinheiro, Otavio Pierin e Pedro Olivate. 
+ 
 
-![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizmlima&show_icons=true&theme=omni)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmlima&layout=compact)-->
+## Detalhes
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bia-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Bia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Bia-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+A aplicação, que replica um sistema bancário em ambiente virtual, possui funcionalidades que permitem que o usuário realize ou receba transações de maneira segura, com validações de reconhecimento facial do remetente e confirmação de integridade por biometria. Além disso, funcionando como uma terceira ferramenta de segurança, o responsável legal pelo deficiência tem a sua disposição um dashboard que apresenta todas as atividades do usuário no aplicação, permitindo que seja feito um monitoramento e gerenciamento seguro das finanças do usuário, facilitando o processo de identificação de possíveis fraudes e golpes. Ademais toda a interface possui botões e funcionalidades intuitivas para demandar o menor esforço cognitivo do usuário. Por fim todos os dados obtidos no uso do aplicativo são armazenados em banco de dados relacional, para garantir que os processos sejam otimizados, facilitando a experiência do usuário, e para assegurar proteção e segurança.
 
-<!--##
-<div> 
-  <a href ="mailto:beatrizmorais.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a> 
-  <a href ="mailto:beatrizmorais.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatriz-morais-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> -->
-
-![Snake animation](https://github.com/beatrizmlima/beatrizmlima/blob/output/github-contribution-grid-snake.svg)
+## Preview
+<img src="./img/Adaptransfer.png" alt="Adaptransfer Web e Mobile">
